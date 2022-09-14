@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "leaflet-control-geocoder": "^2.4.0",
+    "leaflet-easybutton": "^2.4.0",
+    "leaflet-mouse-position": "^1.2.0",
+    "leaflet-search": "^3.0.2",
+    "leaflet-svg-shape-markers": "^1.3.0"
+  }
+}
